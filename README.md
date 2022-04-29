@@ -2,6 +2,7 @@
 
 Backlog Spis funkcjonalności: użytkownik będzie miał możliwość rejestracji, logowania, dodawania kategorii, edytowania zadań, usuwania zadania, dodawania zadań do konkretnych kategorii, edytowanie informacji użytkownika.
 
+
 1. Rejestracja + logowanie
 2. Profil użytkownika
 3. Tworzenie zadań
