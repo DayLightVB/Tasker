@@ -12,6 +12,7 @@ Backlog Spis funkcjonalności: użytkownik będzie miał możliwość rejestracj
 7. Kasowanie zadań
 8. Zmiana statusu zadania
 9. Zmiana, przegląd informacji profilu
+
 10.Dodawanie znacznik ("tags")
 
 
