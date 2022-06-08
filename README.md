@@ -1,6 +1,6 @@
 # Tasker
 
-Backlog Spis funkcjonalności: użytkownik będzie miał możliwość rejestracji, logowania, dodawania kategorii, edytowania zadań, usuwania zadania, dodawania zadań do konkretnych kategorii, edytowanie informacji użytkownika.
+Backlog Spis funkcjonalności: użytkownik będzie miał możliwość rejestracji, logowania, dodawania kategorii, edytowania zadań, usuwania zadania, dodawania zadań do konkretnych kategorii.
 
 
 1. Rejestracja + logowanie
@@ -11,8 +11,7 @@ Backlog Spis funkcjonalności: użytkownik będzie miał możliwość rejestracj
 6. Zmiana zadania
 7. Kasowanie zadań
 8. Zmiana statusu zadania
-9. Zmiana, przegląd informacji profilu
-10. Dodawanie znacznik ("tags")
+9. Dodawanie znacznik ("tags")
 
 
 
